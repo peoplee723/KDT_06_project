@@ -1,1 +1,11 @@
 # KDT_06_project
+프로젝트 목록
+1. Python
+2. Pandas
+3. Machine_learning
+4. Deep_learning
+5. Vision
+6. NLP
+7. Web
+8. Flask
+9. Personal_project
