@@ -25,12 +25,12 @@ def data_chek(num):
             # -->직원호출시 기다려 달라는 문구
 
 #햄버거 클래스
-intgred= ['패티', '양상추', '토마토', '치즈', '피클']
+ingred= ['패티', '양상추', '토마토', '치즈', '피클']
 class Hamburger:                                    
     def __init__(self, price, burger_name):
         self.price = price
         self.burger_name = burger_name
-        self.ingredients = intgred
+        self.ingredients = ingred
 
     def add_ingredient(self, ingredient):
         self.ingredients.append(ingredient)
