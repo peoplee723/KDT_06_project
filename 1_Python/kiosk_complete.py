@@ -16,8 +16,6 @@ def data_chek(num):
     if num.isdecimal():
         return isok
     else: isok=False
-    # if num=='-':
-        # isok=False
 
 
 
